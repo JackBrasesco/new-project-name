@@ -1,2 +1,6 @@
 function stuff(name) {
-  var 
+  var lengthdename = name.length
+  console.log(lengthdename)
+}
+
+stuff("bransten")
